@@ -1,0 +1,16 @@
+aiohttp
+aiohttp-jinja2
+async-timeout
+attrs
+chardet
+idna
+Jinja2
+MarkupSafe
+multidict
+peewee
+python-dateutil
+PyYAML
+pyzmq
+six
+websockets
+yarl
